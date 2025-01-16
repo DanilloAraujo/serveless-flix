@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDataStorage", "fnPostDataStorage\fnPostDataStorage.csproj", "{0783F307-80D1-4753-B0A2-67ECB7D2F12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDatabase", "fnPostDatabase\fnPostDatabase.csproj", "{AFAD7CC7-01CF-4738-81E5-D914B6ED0CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetAllMovies", "fnGetAllMovies\fnGetAllMovies.csproj", "{B65A111D-6765-4CB1-B42A-636F0CBF6EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetMovieDetail", "fnGetMovieDetail\fnGetMovieDetail.csproj", "{71DCD576-A90E-4577-A2E2-E278BECBE205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0783F307-80D1-4753-B0A2-67ECB7D2F12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0783F307-80D1-4753-B0A2-67ECB7D2F12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0783F307-80D1-4753-B0A2-67ECB7D2F12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0783F307-80D1-4753-B0A2-67ECB7D2F12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAD7CC7-01CF-4738-81E5-D914B6ED0CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAD7CC7-01CF-4738-81E5-D914B6ED0CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAD7CC7-01CF-4738-81E5-D914B6ED0CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAD7CC7-01CF-4738-81E5-D914B6ED0CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65A111D-6765-4CB1-B42A-636F0CBF6EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65A111D-6765-4CB1-B42A-636F0CBF6EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65A111D-6765-4CB1-B42A-636F0CBF6EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65A111D-6765-4CB1-B42A-636F0CBF6EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DCD576-A90E-4577-A2E2-E278BECBE205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DCD576-A90E-4577-A2E2-E278BECBE205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DCD576-A90E-4577-A2E2-E278BECBE205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DCD576-A90E-4577-A2E2-E278BECBE205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
